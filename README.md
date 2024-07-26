@@ -2,7 +2,8 @@
 Capture the network traffic to file in android
 
 # Installation
-install the dependencies from the requirements.txt file
+Install the dependencies from the requirements.txt file.
+
 pip3 install -r requirements.txt
 
 # Rename Certificate 
